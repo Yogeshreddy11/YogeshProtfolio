@@ -2,7 +2,7 @@
 
 ### 🚀 Security Analyst | Threat Hunter | Digital Forensics | Incident Response | Cloud Security
 
-🔐 I’m a passionate and detail-oriented **Security Analyst** with hands-on experience in SIEM tools, threat detection, cloud security, and malware analysis. I thrive in high-pressure environments, where my skills in incident response and log analysis help organizations stay protected from evolving cyber threats.
+🔐 I’m a passionate and detail-oriented **Security Analyst** with 5+ hands-on experience in SIEM tools, threat detection, cloud security, and malware analysis. I thrive in high-pressure environments, where my skills in incident response and log analysis help organizations stay protected from evolving cyber threats.
 
 🎯 My experience spans across **SOC operations**, **threat intelligence**, and **risk assessments** using tools like Azure Sentinel, Defender ATP, Autopsy, and Nessus. I'm driven by a deep interest in both offensive and defensive security — always learning, always defending.
 
